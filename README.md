@@ -4,7 +4,7 @@
 
 ### Requisitos
 
-- [] Deve ser posssível criar uma conta
+- [x] Deve ser posssível criar uma conta
 - [] Deve ser posssível buscar o extrato bancário do cliente
 - [] Deve ser posssível realizar um depósito
 - [] Deve ser posssível realizar um saque
@@ -17,7 +17,7 @@
 
 ### Regras de negócio
 
-- [] Não deve ser posssível cadastrar uma conta com CPF já existente
+- [x] Não deve ser posssível cadastrar uma conta com CPF já existente
 - [] Não deve ser posssível fazer depósito em uma conta não existente
 - [] Não deve ser posssível buscar extrato em uma conta não existente
 - [] Não deve ser posssível fazer um saque em uma conta não existente
