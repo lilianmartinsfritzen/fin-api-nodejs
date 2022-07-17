@@ -5,7 +5,7 @@
 ### Requisitos
 
 - [x] Deve ser posssível criar uma conta
-- [x] Deve ser posssível buscar o extrato bancário do cliente (Inicialmente estamos passando cpf por Route Params para fins didáticos, mas nenhum dado sensível deve ser passado dessa forma)
+- [x] Deve ser posssível buscar o extrato bancário do cliente
 - [x] Deve ser posssível realizar um depósito
 - [x] Deve ser posssível realizar um saque
 - [x] Deve ser posssível buscar o extrato bancário do cliente por data
